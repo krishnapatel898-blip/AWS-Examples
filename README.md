@@ -1,2 +1,2 @@
 # AWS-Examples
-A code base of all the AWS examples used throughout AWS cert study courses
+A code base of all the AWS examples used 
